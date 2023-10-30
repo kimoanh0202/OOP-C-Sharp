@@ -1,0 +1,15 @@
+D:\OOP\Thangleo\bin\Debug\net6.0\Thangleo.exe
+D:\OOP\Thangleo\bin\Debug\net6.0\Thangleo.deps.json
+D:\OOP\Thangleo\bin\Debug\net6.0\Thangleo.runtimeconfig.json
+D:\OOP\Thangleo\bin\Debug\net6.0\Thangleo.dll
+D:\OOP\Thangleo\bin\Debug\net6.0\Thangleo.pdb
+D:\OOP\Thangleo\obj\Debug\net6.0\Thangleo.csproj.AssemblyReference.cache
+D:\OOP\Thangleo\obj\Debug\net6.0\Thangleo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Thangleo\obj\Debug\net6.0\Thangleo.AssemblyInfoInputs.cache
+D:\OOP\Thangleo\obj\Debug\net6.0\Thangleo.AssemblyInfo.cs
+D:\OOP\Thangleo\obj\Debug\net6.0\Thangleo.csproj.CoreCompileInputs.cache
+D:\OOP\Thangleo\obj\Debug\net6.0\Thangleo.dll
+D:\OOP\Thangleo\obj\Debug\net6.0\refint\Thangleo.dll
+D:\OOP\Thangleo\obj\Debug\net6.0\Thangleo.pdb
+D:\OOP\Thangleo\obj\Debug\net6.0\Thangleo.genruntimeconfig.cache
+D:\OOP\Thangleo\obj\Debug\net6.0\ref\Thangleo.dll
