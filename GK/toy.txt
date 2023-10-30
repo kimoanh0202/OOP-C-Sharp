@@ -1,0 +1,16 @@
+145;Bup be Babie;2y+;Be gai;200000
+724;Lego 150 chi tiet;3y+;Giao duc;250000
+921;Do choi nau an;1y+;Nhap vai;179000
+822;Do choi bac si; 1y+;Nhap vai;145000
+112;Do choi ky su; 1y+;Nhap vai;155000
+801;Sieu nhan Gao;3y+;Be trai;148000
+123;Biet doi cuu ho;3y+;Be trai;157000
+192;Thu bong tho;6m+;Gau bong;80000
+824;Thu bong heo;6m+;Gau bong;80000
+612;Bang but long;3y+;Giao duc;45000
+192;To tuong 5 mon;3y+;Giao duc;68000
+211;Xuc xac;1m+;So sinh;18000
+199;Tranh thi giac;1m+;So sinh;59000
+129;The hoc;3m+;Giao duc;360000
+180;Lap hinh;1y+;Giao duc;14000
+133;Bup be nho;2y+;Be gai;70000
