@@ -1,0 +1,45 @@
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\bin\Debug\net6.0\BTC1.exe
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\bin\Debug\net6.0\BTC1.deps.json
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\bin\Debug\net6.0\BTC1.runtimeconfig.json
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\bin\Debug\net6.0\BTC1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\bin\Debug\net6.0\BTC1.pdb
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.csproj.AssemblyReference.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.AssemblyInfoInputs.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.AssemblyInfo.cs
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.csproj.CoreCompileInputs.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\obj\Debug\net6.0\refint\BTC1.dll
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.pdb
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.genruntimeconfig.cache
+E:\ĐẠI HỌC NÀYY\Học kì 1 năm 2\OOP\C#\BTC1\obj\Debug\net6.0\ref\BTC1.dll
+E:\University\Semester 1 year 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.csproj.AssemblyReference.cache
+E:\University\Semester 1 year 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Semester 1 year 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.AssemblyInfoInputs.cache
+E:\University\Semester 1 year 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.AssemblyInfo.cs
+E:\University\Semester 1 year 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.csproj.CoreCompileInputs.cache
+E:\University\Semester 1 year 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.dll
+E:\University\Semester 1 year 2\OOP\C#\BTC1\obj\Debug\net6.0\refint\BTC1.dll
+E:\University\Semester 1 year 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.pdb
+E:\University\Semester 1 year 2\OOP\C#\BTC1\bin\Debug\net6.0\BTC1.exe
+E:\University\Semester 1 year 2\OOP\C#\BTC1\bin\Debug\net6.0\BTC1.deps.json
+E:\University\Semester 1 year 2\OOP\C#\BTC1\bin\Debug\net6.0\BTC1.runtimeconfig.json
+E:\University\Semester 1 year 2\OOP\C#\BTC1\bin\Debug\net6.0\BTC1.dll
+E:\University\Semester 1 year 2\OOP\C#\BTC1\bin\Debug\net6.0\BTC1.pdb
+E:\University\Semester 1 year 2\OOP\C#\BTC1\obj\Debug\net6.0\BTC1.genruntimeconfig.cache
+E:\University\Semester 1 year 2\OOP\C#\BTC1\obj\Debug\net6.0\ref\BTC1.dll
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\bin\Debug\net6.0\BTC1.exe
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\bin\Debug\net6.0\BTC1.deps.json
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\bin\Debug\net6.0\BTC1.runtimeconfig.json
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\bin\Debug\net6.0\BTC1.dll
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\bin\Debug\net6.0\BTC1.pdb
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\obj\Debug\net6.0\BTC1.csproj.AssemblyReference.cache
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\obj\Debug\net6.0\BTC1.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\obj\Debug\net6.0\BTC1.AssemblyInfoInputs.cache
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\obj\Debug\net6.0\BTC1.AssemblyInfo.cs
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\obj\Debug\net6.0\BTC1.csproj.CoreCompileInputs.cache
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\obj\Debug\net6.0\BTC1.dll
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\obj\Debug\net6.0\refint\BTC1.dll
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\obj\Debug\net6.0\BTC1.pdb
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\obj\Debug\net6.0\BTC1.genruntimeconfig.cache
+E:\University\Semester 1 year 2\OOP\C#\BTC1_c#\obj\Debug\net6.0\ref\BTC1.dll
