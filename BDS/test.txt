@@ -1,0 +1,40 @@
+A11;Nha o;Dong;Lo 53B Le Hien Mai;100;3.4
+A12;Nha o;Dong ;Lo 245 Da Son, Khu do thi NewCity;86;3.2
+A13;Dat;Tay;Lo 125A Nguyen Nhuoc Phap;164;4.7
+A14;Dat;Bac;Lo 2451 Khu do thi Nam Hoa Xuan;100;3.5
+A15;Dat;Nam;Lo 2955 Khu do thi Nam Hoa Xuan;100;3.55
+A16;Can ho;Dong Nam;C528, Tang 5, Hoang Anh Gia Lai;60;4.7
+A17;Can ho;Tay Bac;E632, Tang 6, Azura;70;5.2
+A18;Dat;Tay;Lo 641 Khu do thi FPT Da Nang;100;3.1
+A19;Dat;Dong Bac;Lo 251 Khu do thi FPT Da Nang;100;3.2
+A20;Nha o;Nam;K521/53 Ton Dan, Cam Le, Da Nang;57;2.1
+A21;Dat;Nam;Lo 162 Khu do thi Phuoc Ly ;100;3
+A22;Dat;Bac;Lo 98 Khu do thi Phuoc Ly;124;3.5
+A23;Nha o;Tay Nam;K417/2/7 Nguyen Phuoc Nguyen;52;2.4
+A24;Dat;Dong Bac;Lo 134 Khu do thi Nam Hoa Xuan;100;3.5
+A25;Can ho;Dong;K1459, Tang 14, Khu K, Azura;75;4
+A26;Can ho;Dong Nam;C872, Tang 8, Hoang Anh Gia Lai;50;2.2
+A27;Dat;Tay;Lo 620 Nguyen Nhuoc Phap;125;4.5
+A28;Dat;Dong Nam;Lo 1256 Bui Tan Dien;148;4.9
+A29;Dat;Tay Nam;Lo 952 Nguyen Tat Thanh;100;	6
+A30;Nha o;Bac;912 Nguyen Nhu Hanh;100;3.5
+A31;Nha o;Dong;Lo 153B Le Hien Mai;100;3.4
+A32;Nha o;Dong;Lo 725 Da Son, Khu do thi NewCity;86;3.2
+A33;Dat;Tay;Lo 725 Nguyen Nhuoc Phap;164;4.7
+A34;Dat;Bac;Lo 1421 Khu do thi Nam Hoa Xuan;100;3.5
+A35;Dat;Nam ;Lo 1975 Khu do thi Nam Hoa Xuan;100;3.55
+A36;Can ho;Dong Nam;C828, Tang 8, Hoang Anh Gia Lai;60;4.7
+A37;Can ho;Tay Bac;E432, Tang 4, Azura;170;8.9
+A38;Dat;Tay;Lo 141 Khu do thi FPT Da Nang	;100;3.1
+A39;Dat;Dong Bac;Lo 551 Khu do thi FPT Da Nang;100;3.2
+A40;Nha o;Nam;K231/87 Ton Dan, Cam Le, Da Nang;47;1.7
+A41;Dat;Nam;Lo 564 Khu do thi Phuoc Ly;100;3
+A42;Dat;Bac;Lo 194 Khu do thi Phuoc Ly;124;3.5
+A43;Nha o;Tay Nam;K317/8/17 Nguyen Phuoc Nguyen;38;1.5
+A44;Dat;Dong Bac;Lo 164 Khu do thi Nam Hoa Xuan;100;3.5
+A45;Can ho;Dong;K1259, Tang 12, Khu K, Azura ;80;4
+A46;Can ho;Dong Nam;C772, Tang 7, Hoang Anh Gia Lai;100;5.2
+A47;Dat;Tay;Lo 220 Nguyen Nhuoc Phap;125;4.5
+A48;Dat;Dong Nam;Lo 152 Bui Tan Dien;148;4.9
+A49;Dat;Tay Nam;Lo 1852 Nguyen Tat Thanh;100;6
+A50;Nha o;Bac;712 Nguyen Nhu Hanh;100;3.5
